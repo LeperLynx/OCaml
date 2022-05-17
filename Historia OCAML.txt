@@ -1,0 +1,24 @@
+Historia OCaml
+
+Ocaml (Objective Categorical Abstract Machine Language) es un lenguaje de programación avanzado
+de la familia de los lenguajes ML desarrollado por INRIA (xavier Leroy, Jérome Vouillon, 
+Damien Doligez, Didier Rémy, Ascánder Suárez) en Francia en el año 1996. Ocaml es un lenguaje 
+multiparadigma, funcional, imperativo, modular y este al integrarse a la programación con objetos 
+cambia su nombre evolucionando de CAML a OCAML. Su versión más reciente y la cual usaremos es 4.11.0
+
+_Ocaml fué influenciado por:
+-C
+-CAML
+-Modula-3
+-Pascal
+-Standar ML
+
+--Unas de las influencias más relevantes son:
+-Rust
+-ELM
+-Facebook
+-Haxe
+
+Ocaml dispone de un análisis de tipos estáticos con inferencias de tipos, con valores funcionales de 
+primera clase, polimorfismo parametrizado, llamado por patrones, manejo de excepciones, recolector de 
+basura, entre otros.
